@@ -18,6 +18,12 @@ npm run dev
 
 > after uploading the file  use the following commands
 
-
 > cd \DROPS-File-Upload-master\client\public\uploads
+
 > javac Gtry1.java Edge.java Pop.java scrape.java spl.java bfsc.java
+
+> javac db.java
+
+> java Insert
+
+now specify the fragment size
