@@ -20,7 +20,7 @@ npm run dev
 
 > cd \DROPS-File-Upload-master\client\public\uploads
 
-> javac Gtry1.java Edge.java Pop.java scrape.java spl.java bfsc.java
+> javac Gtry1.java Edge.java Pop.java scrape.java spl.java BFS.java
 
 > javac db.java
 
